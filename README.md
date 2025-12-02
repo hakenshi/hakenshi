@@ -19,10 +19,10 @@ I like build things using **Next.js**, **React**, and **TypeScript**.
 
 ## Interests
 
-* Anime
 * Software Engineering.
-* Learning
-
+* Bulding things.
+* Learnig new technologies
+  
 ## Quotes
 
 > "An idiot admires complixity, a genius admires simplicity."
