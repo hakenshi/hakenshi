@@ -19,9 +19,9 @@ I like build things using **Next.js**, **React**, and **TypeScript**.
 
 ## Interests
 
-* Simplicity
 * Anime
 * Software Engineering.
+* Learning
 
 ## Quotes
 
