@@ -20,8 +20,7 @@ I like build things using **Next.js**, **React**, and **TypeScript**.
 ## Interests
 
 * Software Engineering.
-* Bulding things.
-* Learnig new technologies
+* Linux.
   
 ## Quotes
 
