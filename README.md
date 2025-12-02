@@ -8,7 +8,7 @@ I like build things using **Next.js**, **React**, and **TypeScript**.
 
 * Frontend engineering with modern React tooling.
 * Full‑stack development with Next.js.
-* 
+
 ## Tech I use
 
 * **Languages:** TypeScript, PHP, Java.
@@ -21,6 +21,10 @@ I like build things using **Next.js**, **React**, and **TypeScript**.
 
 * Software Engineering.
 * Linux.
+
+## Useful links
+
+* **Portifolio**: <https://portifolio-felipe-kafka-dev.vercel.app/>
   
 ## Quotes
 
