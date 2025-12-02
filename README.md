@@ -8,8 +8,7 @@ I like build things using **Next.js**, **React**, and **TypeScript**.
 
 * Frontend engineering with modern React tooling.
 * Full‑stack development with Next.js.
-* API design, authentication, and scalable project architecture.
-
+* 
 ## Tech I use
 
 * **Languages:** TypeScript, PHP, Java.
@@ -20,9 +19,9 @@ I like build things using **Next.js**, **React**, and **TypeScript**.
 
 ## Interests
 
-* Performance‑oriented frontend development
-* Clean architecture in web apps
-* Developer tooling & automation
+* Simplicity
+* Anime
+* Software Engineering.
 
 ## Quotes
 
