@@ -24,10 +24,10 @@ I like build things using **Next.js**, **React**, and **TypeScript**.
 
 ## Useful links
 
-* **Portifolio**: <https://portifolio-felipe-kafka-dev.vercel.app/>
+* **Portfolio**: <https://portifolio-felipe-kafka-dev.vercel.app/>
   
 ## Quotes
 
-> "An idiot admires complixity, a genius admires simplicity."
+> "An idiot admires complexity, a genius admires simplicity."
 >
 > — *Terry Davis*
