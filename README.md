@@ -10,7 +10,6 @@ I'm a Software Engineer based in Brazil.
 
 * Software Engineering.
 * Linux.
-* Metallica.
 
 ## Useful links
 
@@ -22,6 +21,3 @@ I'm a Software Engineer based in Brazil.
 >
 > — *Terry Davis*
 
-> "I have lost the will to live, simply nothing more to give"
->
-> — *Metallica - Fade to Black*
