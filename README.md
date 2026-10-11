@@ -6,10 +6,14 @@ I'm a Software Engineer based in Brazil.
 
 * I build software. Just like anyone else.
 
-## Interests
+## What i like
 
 * Software Engineering.
 * Linux.
+
+## What i hate
+
+* Javascript.
 
 ## Useful links
 
